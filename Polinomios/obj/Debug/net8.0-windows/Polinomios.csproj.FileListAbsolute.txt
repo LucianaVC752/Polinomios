@@ -1,0 +1,50 @@
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\bin\Debug\net8.0-windows\Polinomios.exe
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\bin\Debug\net8.0-windows\Polinomios.deps.json
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\bin\Debug\net8.0-windows\Polinomios.runtimeconfig.json
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\bin\Debug\net8.0-windows\Polinomios.dll
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\bin\Debug\net8.0-windows\Polinomios.pdb
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.FrmPolinomios.resources
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.csproj.GenerateResource.cache
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.AssemblyInfoInputs.cache
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.AssemblyInfo.cs
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.csproj.CoreCompileInputs.cache
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.dll
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\obj\Debug\net8.0-windows\refint\Polinomios.dll
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.pdb
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.genruntimeconfig.cache
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Polinomios\Polinomios\obj\Debug\net8.0-windows\ref\Polinomios.dll
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\bin\Debug\net8.0-windows\Polinomios.exe
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\bin\Debug\net8.0-windows\Polinomios.deps.json
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\bin\Debug\net8.0-windows\Polinomios.runtimeconfig.json
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\bin\Debug\net8.0-windows\Polinomios.dll
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\bin\Debug\net8.0-windows\Polinomios.pdb
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.FrmPolinomios.resources
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.csproj.GenerateResource.cache
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.AssemblyInfoInputs.cache
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.AssemblyInfo.cs
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.sourcelink.json
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.dll
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\obj\Debug\net8.0-windows\refint\Polinomios.dll
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.pdb
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\obj\Debug\net8.0-windows\Polinomios.genruntimeconfig.cache
+C:\Users\hp\Source\Repos\IUPB_ED_Polinomios\Polinomios\obj\Debug\net8.0-windows\ref\Polinomios.dll
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\bin\Debug\net8.0-windows\Polinomios.exe
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\bin\Debug\net8.0-windows\Polinomios.deps.json
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\bin\Debug\net8.0-windows\Polinomios.runtimeconfig.json
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\bin\Debug\net8.0-windows\Polinomios.dll
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\bin\Debug\net8.0-windows\Polinomios.pdb
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\obj\Debug\net8.0-windows\Polinomios.FrmPolinomios.resources
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\obj\Debug\net8.0-windows\Polinomios.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\obj\Debug\net8.0-windows\Polinomios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\obj\Debug\net8.0-windows\Polinomios.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\obj\Debug\net8.0-windows\Polinomios.AssemblyInfo.cs
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\obj\Debug\net8.0-windows\Polinomios.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\obj\Debug\net8.0-windows\Polinomios.sourcelink.json
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\obj\Debug\net8.0-windows\Polinomios.dll
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\obj\Debug\net8.0-windows\refint\Polinomios.dll
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\obj\Debug\net8.0-windows\Polinomios.pdb
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\obj\Debug\net8.0-windows\Polinomios.genruntimeconfig.cache
+C:\Users\hp\Downloads\Polinomios ED\Polinomios\obj\Debug\net8.0-windows\ref\Polinomios.dll
